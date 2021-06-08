@@ -1,3 +1,3 @@
-# ri1-guid
+# RI1-Guide
 
-## OpenSouce Workflow resouces [Follow](./git-workflow/README.md) 
+## OpenSource Workflow resources [Follow](./git-workflow/README.md)
